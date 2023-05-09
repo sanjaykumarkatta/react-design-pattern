@@ -1,0 +1,67 @@
+{
+	"oid": 12348,
+	"firstName": "Jane",
+	"lastName": "Smith",
+	"email": "jane_smith@fakeemail.com",
+	"lastLogon": "2023-02-23T16:15:30+05:00",
+	"enabled": true,
+	"addresses": {
+		"home": {
+			"street1": "Unit #34",
+			"street2": "12 Around the corner avenue",
+			"city": "Toronto",
+			"province": "Ontario",
+			"postalCode": "L4E2L2"
+		},
+		"work": {
+			"street1": "Unit #111",
+			"street2": "123 workers way",
+			"city": "Toronto",
+			"province": "Ontario",
+			"postalCode": "M1E2A1"
+		}
+	},
+	"phoneNumbers": {
+		"work": "1234567890",
+		"home": "1234567890",
+		"mobile": "1234567890"
+	},
+	"favorites": {
+		"colors": ["Red", "Blue", "Green"],
+		"food": ["Steak", "Sushi"]
+	},
+	"magazineSubscriptions": [
+		{
+			"title": "Magazine 1",
+			"start": "2022-01-01",
+			"end": "2022-01-01"
+		},
+		{
+			"title": "Magazine 2",
+			"start": "2023-01-01",
+			"end": "2024-01-01"
+		},
+		{
+			"title": "Magazine 3",
+			"start": "2023-01-01",
+			"end": "2024-01-01"
+		}
+	],
+	"channelSubscriptions": [
+		{
+			"title": "Channel 1",
+			"start": "2022-01-01",
+			"end": "2022-01-01"
+		},
+		{
+			"title": "Channel 2",
+			"start": "2023-01-01",
+			"end": "2024-01-01"
+		},
+		{
+			"title": "Channel 3",
+			"start": "2023-01-01",
+			"end": "2024-01-01"
+		}
+	]
+}

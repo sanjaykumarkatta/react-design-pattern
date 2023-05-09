@@ -1,0 +1,34 @@
+[
+	{
+		"oid": 12345,
+		"firstName": "Roger",
+		"lastName": "Spall",
+		"email": "roger_spall@fakeemail.com",
+		"lastLogon": "2022-12-03T03:15:30+05:00",
+		"enabled": true
+	},
+	{
+		"oid": 12346,
+		"firstName": "Elaine",
+		"lastName": "Spall",
+		"email": "elaine_spall@fakeemail.com",
+		"lastLogon": "2023-03-03T15:30:30+05:00",
+		"enabled": true
+	},
+	{
+		"oid": 12347,
+		"firstName": "John",
+		"lastName": "Doe",
+		"email": "john_doe@fakeemail.com",
+		"lastLogon": "2021-03-03T10:15:30+05:00",
+		"enabled": false
+	},
+	{
+		"oid": 12348,
+		"firstName": "Jane",
+		"lastName": "Smith",
+		"email": "jane_smith@fakeemail.com",
+		"lastLogon": "2023-02-23T16:15:30+05:00",
+		"enabled": true
+	}
+]
